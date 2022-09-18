@@ -46,22 +46,22 @@ en: &DEFAULT_EN
     events:
       - title: "Sensei"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Developing autonomous and checkout-free stores for existing retail companies. Responsible for improving failure resistance, load balancing, and weekly programming workshops."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Critical Techworks"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Working directly with BMW Group. Worked with Java, JakartaEE and Quarkus, in a microservices environment."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Iscte - Lisbon University Institute"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Teaching has improved my communication and presentation skills. By instructing others on this subject I have perfected my multi-threaded programming knowledge."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Proregatta"
         year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Improved the ship tracking system utilizing the Google Maps API and implementing the new website theme while integrating it with a Django backend."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
