@@ -45,24 +45,24 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Sensei"
-        year: "2009-2011"
+        year: "Jan 2021 - Present"
         desc: "Developing autonomous and checkout-free stores for existing retail companies. Responsible for improving failure resistance, load balancing, and weekly programming workshops."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/sensei-logo.png
         alt:
       - title: "Critical Techworks"
-        year: "March 2011"
+        year: "Sep 2020 - January 2021"
         desc: "Working directly with BMW Group. Worked with Java, JakartaEE and Quarkus, in a microservices environment."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/critical-logo.png
         alt:
       - title: "Iscte - Lisbon University Institute"
-        year: "2019"
+        year: "Sep 2019 - June 2020"
         desc: "Teaching has improved my communication and presentation skills. By instructing others on this subject I have perfected my multi-threaded programming knowledge."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/iscte-logo.jpeg
         alt: image alt text
       - title: "Proregatta"
-        year: "2009-2011"
+        year: "Nov 2018 - Oct 2019"
         desc: "Improved the ship tracking system utilizing the Google Maps API and implementing the new website theme while integrating it with a Django backend."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/proregatta-logo.png
         alt:
         # you can enforce the alignment
         align: right
