@@ -11,35 +11,35 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to my Website!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+#  services:
+#    title: "Services"
+#    text: "Lorem ipsum"
+#    section: services
+#    list:
+#      - title: "E-Commerce"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Responsive Design"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Your description here, full **Markdown** support"
+#        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Here are some of my favourite projects!"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Experience"
+    # text: ""
     section: timeline
     # left is the default
     #start_align: "left"
@@ -68,9 +68,9 @@ en: &DEFAULT_EN
         align: right
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: ""
+    body: "I have experience working in a team, conflict management and problem-solving. I’m capable of using my communication, cooperation and critical thinking skills to break problems down in smaller, simpler to solve tasks."
     section: about
 
   clients:
