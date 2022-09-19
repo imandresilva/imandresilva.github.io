@@ -7,6 +7,4 @@
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
 
-style:
-  highlight:
-    "#806985"
+highlight: "#3c2e41"
