@@ -70,7 +70,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: ""
-    body: "I have experience working in a team, conflict management and problem-solving. I’m capable of using my communication, cooperation and critical thinking skills to break problems down in smaller, simpler to solve tasks."
+    body: "Hey there! My name is André Silva, I'm a Software Engineer who spends most of his free time working on often not-so-small side projects! I get most of my inspiration from nature, which you can see in quite a few of my video games."
     section: about
 
 #  clients:
