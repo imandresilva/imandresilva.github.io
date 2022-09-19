@@ -7,4 +7,5 @@
 header-image: "../img/header-bg.png"
 contact-image: "../img/map-image.png"
 
-highlight: "#3c2e41"
+highlight: "#F2B8A2"
+black: "#0D2226"
