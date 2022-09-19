@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: ""
-    text: ""
+    typerwords: "Software Engineer, Game Developer"
     button: V
     buttonlink: "#about"
 
