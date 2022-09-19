@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my Website!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: ""
+    text: ""
+    button: V
     buttonlink: "#about"
 
 #  services:

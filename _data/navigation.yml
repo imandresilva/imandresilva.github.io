@@ -21,6 +21,8 @@ en: &DEFAULT_EN
       section: contact
     - title: "Resume"
       url: /resume
+#    - title: "Theme Source"
+#      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
