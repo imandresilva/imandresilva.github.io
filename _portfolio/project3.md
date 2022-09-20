@@ -14,7 +14,6 @@ caption:
 *"In this endless game your goal is to avoid getting destroyed by missiles, while simultaneously causing the missiles to
 collide with each other. Points are gained for every missile collision you cause and two unique power-ups can be found
 during your flight - use these to your advantage!"* - Description on the
-[Play Store](https://play.google.com/store/apps/details?id=com.sylvangamestudios.PepperedWithMissiles)
 
 The first game I completed! I worked on multiple projects before this one, but this is the one that I got to a state I
 was happy with releasing. There's multiple things I would have liked to improve or add, but I thought it was better to
