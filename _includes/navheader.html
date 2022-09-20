@@ -67,10 +67,9 @@
             <script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
             {%- endif -%}
             {%- if site.data.sitetext[site.locale].header.button -%}
-            <span></span>
-            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-               href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{
-                site.data.sitetext[site.locale].header.button }}</a>
+            <a href="{{ site.data.sitetext[site.locale].header.buttonlink }}">
+                <span class="scroll-btn"></span>
+            </a>
             {%- endif -%}
             <!-- here -->
         </div>

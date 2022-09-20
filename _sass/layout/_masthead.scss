@@ -28,7 +28,7 @@ header.masthead {
       @include heading-font;
     }
 
-    span {
+    #scroll-btn span {
       position: absolute;
       top: 0;
       left: 50%;
@@ -40,7 +40,7 @@ header.masthead {
       box-sizing: border-box;
     }
 
-    span::after {
+    #scroll-btn span::after {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -55,7 +55,7 @@ header.masthead {
       box-sizing: border-box;
     }
 
-    span::before {
+    #scroll-btn span::before {
       position: absolute;
       top: 0;
       left: 0;
