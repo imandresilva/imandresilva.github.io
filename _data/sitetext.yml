@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "If you'd like to know more, feel free to contact me!"
+    text: "If you'd like to know more, feel free to contact me at andre.olivais@gmail.com!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
