@@ -56,13 +56,12 @@
             <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
             {%- endif -%}
             {%- if site.data.sitetext[site.locale].header.typerwords -%}
-            <div class="intro-heading text-uppercase">
-                <span class="typer" id="typer-localizedd"
+            <div class="intro-heading text-uppercase" style="min-height: 2em">
+                <span class="typer" id="typer-localized"
                       data-words="{{ site.data.sitetext[site.locale].header.typerwords }}"
                       data-delay="50"
                       data-deleteDelay="5000"
                       data-colors="white"></span>
-                <span class="cursor" data-owner="typer-localized"></span>
             </div>
             <script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
             {%- endif -%}
