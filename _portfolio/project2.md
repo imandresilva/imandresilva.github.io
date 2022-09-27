@@ -10,9 +10,10 @@ caption:
   thumbnail: assets/img/portfolio/astraeus.png
 ---
 
-The Astraeus mission is responsible for finding planets suitable for mining operations. You will embark on an
+"*The Astraeus mission is responsible for finding planets suitable for mining operations. You will embark on an
 atmospheric journey to the depths of a planet to learn the grim fate of the previous colonising crew. You will be faced
-with increasingly difficult challenges, as you delve deeper into the twisting caves.
+with increasingly difficult challenges, as you delve deeper into the twisting caves.*" - Description on
+[itch.io](https://davidvfilipe.itch.io/astraeus42)
 
 Will you be able to manage your resources long enough to reach the next resupply point, or fail and never know what
 happened to Astraeus 42?
