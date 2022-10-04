@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Resume"
-      url: /resume.html
+      url: /resume.pdf
 #    - title: "Theme Source"
 #      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
